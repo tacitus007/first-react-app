@@ -1,0 +1,11 @@
+.recipe {
+    border-radius: 10px;
+    margin: 20px;
+}
+.links {
+    justify-content: center;
+}
+.image {
+    width: 250px;
+    height: 250px;
+}
